@@ -6,7 +6,7 @@ import geopandas as gpd
 from shapely.geometry import LineString
 
 # Set your Google Maps API key
-google_key = "AIzaSyBhzrOB_qFw2duH9DPrqhWYAmcAbNTT1GE"
+google_key = "Get_API_Key"
 
 # Define location
 location = (23.050563887729403, 72.51763363854504)  # Coordinates for Ahmedabad
